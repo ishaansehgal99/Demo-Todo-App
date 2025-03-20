@@ -5,7 +5,6 @@ import Header from './Header'
 import AddTodo from "./AddTodo";
 
 export default class App extends React.Component{
-
     constructor(props) {
         super(props);
         this.state = {
